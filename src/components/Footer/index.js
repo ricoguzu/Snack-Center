@@ -9,7 +9,7 @@ const Footer = () => {
           <FooterWrap>
               <SocialMedia>
                   <SocialMediaWrap>
-                      <SocialLogo to="/">HamBurger</SocialLogo>
+                      <SocialLogo to="/">Create by Guzu</SocialLogo>
                       <SocialIcons>
 
                           <SocialIconLink href="/" target="-blank" aria-label="Facebook" 
